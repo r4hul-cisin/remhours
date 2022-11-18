@@ -1,4 +1,7 @@
-# remhours
+# Remhours
+
+pre-requisites
+* You'll need chromedriver installed, follow https://chromedriver.chromium.org
 
 * Add executable permission `sudo chmod +x install.sh`
 * Run `./install.sh`
