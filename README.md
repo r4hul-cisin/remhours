@@ -1,6 +1,6 @@
 # Remhours
 
-prerequisites
+Prerequisites
 * You'll need chromedriver installed, follow https://chromedriver.chromium.org
 
 Then
