@@ -18,7 +18,7 @@ if [ $? -eq 0 ]; then
   read -s PASSWD
   echo -e "$UNAME\n$PASSWD" >> $INSTALLDIR/config
 else
-  echo "Requirements not satisfied."
+  echo "INSTALLATION FAILED! \nUnable to install requirements."
   exit 1
 fi
 
